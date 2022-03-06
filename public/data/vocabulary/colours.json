@@ -1,0 +1,98 @@
+[
+  {
+    "id": "color-1",
+    "kanji + kana": "色",
+    "kana": "いろ",
+    "romaji": "iro",
+    "eng": "colour",
+    "my": "အရောင်"
+  },
+  {
+    "id": "color-2",
+    "kanji + kana": "赤",
+    "kana": "あか",
+    "romaji": "aka",
+    "eng": "red",
+    "my": "အနီ"
+  },
+  {
+    "id": "color-3",
+    "kanji + kana": "オレンジ",
+    "kana": "",
+    "romaji": "orenji",
+    "eng": "orange",
+    "my": "လိမ္မော်"
+  },
+  {
+    "id": "color-4",
+    "kanji + kana": "黄色",
+    "kana": "きいろ",
+    "romaji": "kiiro",
+    "eng": "yellow",
+    "my": "အဝါရောင်"
+  },
+  {
+    "id": "color-5",
+    "kanji + kana": "緑",
+    "kana": "みどり",
+    "romaji": "midori",
+    "eng": "green",
+    "my": "အစိမ်းရောင်"
+  },
+  {
+    "id": "color-6",
+    "kanji + kana": "青",
+    "kana": "あお",
+    "romaji": "ao",
+    "eng": "blue",
+    "my": "အပြာ"
+  },
+  {
+    "id": "color-7",
+    "kanji + kana": "紫",
+    "kana": "むらさき",
+    "romaji": "murasaki",
+    "eng": "purple",
+    "my": "ခရမ်းရောင်"
+  },
+  {
+    "id": "color-8",
+    "kanji + kana": "白",
+    "kana": "しろ",
+    "romaji": "shiro",
+    "eng": "white",
+    "my": "အဖြူရောင်"
+  },
+  {
+    "id": "color-9",
+    "kanji + kana": "黒",
+    "kana": "くろ",
+    "romaji": "kuro",
+    "eng": "black",
+    "my": "အနက်ရောင်"
+  },
+  {
+    "id": "color-10",
+    "kanji + kana": "ピンク",
+    "kana": "",
+    "romaji": "pinku",
+    "eng": "pink",
+    "my": "ပန်းရောင်"
+  },
+  {
+    "id": "color-11",
+    "kanji + kana": "灰色",
+    "kana": "はいいろ",
+    "romaji": "haiiro",
+    "eng": "grey",
+    "my": "မီးခိုးရောင်"
+  },
+  {
+    "id": "color-12",
+    "kanji + kana": "茶色",
+    "kana": "ちゃいろ",
+    "romaji": "chairo",
+    "eng": "brown",
+    "my": "အညိုရောင်"
+  }
+]

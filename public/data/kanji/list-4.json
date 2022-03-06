@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kanji-4-1",
+    "kanji": "生",
+    "onyomi": "セイ、 ショウ",
+    "kunyomi": "いきる, うむ,",
+    "eng": "live, life, birth",
+    "my": "အသက်ရှင်, ဘဝ, မွေးဖွါးခြင်း"
+  },
+  {
+    "id": "kanji-4-2",
+    "kanji": "間",
+    "onyomi": "カン、 ケン",
+    "kunyomi": "あいだ",
+    "eng": "interval, space",
+    "my": "ကြားကာလ"
+  },
+  {
+    "id": "kanji-4-3",
+    "kanji": "上",
+    "onyomi": "ジョウ",
+    "kunyomi": "うえ",
+    "eng": "above, up",
+    "my": "အထက်, အပေါ်မှာ"
+  },
+  {
+    "id": "kanji-4-4",
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "eng": "east",
+    "my": "အရှေ့"
+  },
+  {
+    "id": "kanji-4-5",
+    "kanji": "今",
+    "onyomi": "コン、 キン",
+    "kunyomi": "いま",
+    "eng": "now, the present",
+    "my": "ယခု, ပစ္စုပ္ပန်"
+  },
+  {
+    "id": "kanji-4-6",
+    "kanji": "金",
+    "onyomi": "キン、 コン",
+    "kunyomi": "かね",
+    "eng": "gold",
+    "my": "ရွှေ"
+  },
+  {
+    "id": "kanji-4-7",
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "はいる",
+    "eng": "enter, insert",
+    "my": "ဝင်ရောက်သည်"
+  },
+  {
+    "id": "kanji-4-8",
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まなぶ",
+    "eng": "study, learning",
+    "my": "လေ့လာ"
+  },
+  {
+    "id": "kanji-4-9",
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たかい",
+    "eng": "tall, high, expensive",
+    "my": "မြင့်သော, ဈေးကြီးသော"
+  },
+  {
+    "id": "kanji-4-10",
+    "kanji": "子",
+    "onyomi": "シ",
+    "kunyomi": "こ",
+    "eng": "child, kid",
+    "my": "ကလေး"
+  }
+]

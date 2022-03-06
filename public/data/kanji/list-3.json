@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kanji-3-1",
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか、 うち",
+    "eng": "inside, middle",
+    "my": "အတွင်း, အလယ်"
+  },
+  {
+    "id": "kanji-3-2",
+    "kanji": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "ながい、 おさ",
+    "eng": "long, leader, superior",
+    "my": "ရှည်သော, ခေါင်းဆောင်,သာလွန်"
+  },
+  {
+    "id": "kanji-3-3",
+    "kanji": "出",
+    "onyomi": "シュツ、 スイ",
+    "kunyomi": "でる、 だす",
+    "eng": "exit, leave, go out",
+    "my": "ထွက်ပေါက်, အပြင်ထွက်သည်"
+  },
+  {
+    "id": "kanji-3-4",
+    "kanji": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき、 -どき",
+    "eng": "time, hour",
+    "my": "အချိန်, နာရီ"
+  },
+  {
+    "id": "kanji-3-5",
+    "kanji": "行",
+    "onyomi": "コウ、 ギョウ",
+    "kunyomi": "いく、 ゆく",
+    "eng": "go",
+    "my": "သွားသည်"
+  },
+  {
+    "id": "kanji-3-6",
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "みる",
+    "eng": "see, watch",
+    "my": "ကြည့်သည်"
+  },
+  {
+    "id": "kanji-3-7",
+    "kanji": "月",
+    "onyomi": "ゲツ、 ガツ",
+    "kunyomi": "つき",
+    "eng": "month, moon",
+    "my": "လ"
+  },
+  {
+    "id": "kanji-3-8",
+    "kanji": "分",
+    "onyomi": "ブン、 フン",
+    "kunyomi": "わける",
+    "eng": "minute, understand, know",
+    "my": "မိနစ်, နားလည်သည်"
+  },
+  {
+    "id": "kanji-3-9",
+    "kanji": "後",
+    "onyomi": "ゴ、 コウ",
+    "kunyomi": "うしろ",
+    "eng": "behind, back",
+    "my": "အနောက်မှာ"
+  },
+  {
+    "id": "kanji-3-10",
+    "kanji": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "eng": "in front",
+    "my": "ရှေ့တွင်, အရှေ့မှာ"
+  }
+]

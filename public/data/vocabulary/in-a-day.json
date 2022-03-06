@@ -1,0 +1,66 @@
+[
+  {
+    "id": "inADay-1",
+    "kanji + kana": "朝",
+    "kana": "あさ",
+    "romaji": "asa",
+    "eng": "morning",
+    "my": "မနက်ခင်း"
+  },
+  {
+    "id": "inADay-2",
+    "kanji + kana": "昼",
+    "kana": "ひる",
+    "romaji": "hiru",
+    "eng": "noon",
+    "my": "နေ့လည်"
+  },
+  {
+    "id": "inADay-3",
+    "kanji + kana": "夜",
+    "kana": "よる",
+    "romaji": "yoru",
+    "eng": "evening",
+    "my": "ညနေ"
+  },
+  {
+    "id": "inADay-4",
+    "kanji + kana": "今朝",
+    "kana": "けさ",
+    "romaji": "kesa",
+    "eng": "this morning",
+    "my": "ဒီမနက်"
+  },
+  {
+    "id": "inADay-5",
+    "kanji + kana": "真夜中",
+    "kana": "まよなか",
+    "romaji": "mayonaka",
+    "eng": "middle of the night",
+    "my": "ညလယ်"
+  },
+  {
+    "id": "inADay-6",
+    "kanji + kana": "起きる",
+    "kana": "おきる",
+    "romaji": "okiru",
+    "eng": "get up",
+    "my": "အိပ်ရာထသည်"
+  },
+  {
+    "id": "inADay-7",
+    "kanji + kana": "寝る",
+    "kana": "ねる",
+    "romaji": "neru",
+    "eng": "sleep",
+    "my": "အိပ်သည်"
+  },
+  {
+    "id": "inADay-8",
+    "kanji + kana": "洗う",
+    "kana": "あらう",
+    "romaji": "arau",
+    "eng": "wash",
+    "my": "ဆေးသည်"
+  }
+]

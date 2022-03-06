@@ -1,0 +1,226 @@
+[
+  {
+    "id": "foodsAndDrinks-1",
+    "kanji + kana": "料理",
+    "kana": "りょうり",
+    "romaji": "ryouri",
+    "eng": "cooking",
+    "my": "ချက်ပြုတ်မှု"
+  },
+  {
+    "id": "foodsAndDrinks-2",
+    "kanji + kana": "食べ物",
+    "kana": "たべもの",
+    "romaji": "tabemono",
+    "eng": "foods",
+    "my": "အစားအစာများ"
+  },
+  {
+    "id": "foodsAndDrinks-3",
+    "kanji + kana": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "eng": "eat",
+    "my": "စားသည်"
+  },
+  {
+    "id": "foodsAndDrinks-4",
+    "kanji + kana": "果物",
+    "kana": "くだもの",
+    "romaji": "kudamono",
+    "eng": "fruits",
+    "my": "သစ်သီးများ"
+  },
+  {
+    "id": "foodsAndDrinks-5",
+    "kanji + kana": "野菜",
+    "kana": "やさい",
+    "romaji": "yasai",
+    "eng": "vegetable",
+    "my": "ဟင်းသီးဟင်းရွက်"
+  },
+  {
+    "id": "foodsAndDrinks-6",
+    "kanji + kana": "肉",
+    "kana": "にく",
+    "romaji": "niku",
+    "eng": "meat",
+    "my": "အသား"
+  },
+  {
+    "id": "foodsAndDrinks-7",
+    "kanji + kana": "豚肉",
+    "kana": "ぶたにく",
+    "romaji": "butaniku",
+    "eng": "pork",
+    "my": "ဝက်သား"
+  },
+  {
+    "id": "foodsAndDrinks-8",
+    "kanji + kana": "牛肉",
+    "kana": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "eng": "beef",
+    "my": "အမဲသား"
+  },
+  {
+    "id": "foodsAndDrinks-9",
+    "kanji + kana": "鶏肉",
+    "kana": "とりにく",
+    "romaji": "toriniku",
+    "eng": "chicken, bird meat",
+    "my": "ကြက်သား"
+  },
+  {
+    "id": "foodsAndDrinks-10",
+    "kanji + kana": "魚",
+    "kana": "さかな",
+    "romaji": "sakana",
+    "eng": "fish",
+    "my": "ငါး"
+  },
+  {
+    "id": "foodsAndDrinks-11",
+    "kanji + kana": "パン",
+    "kana": "",
+    "romaji": "pan",
+    "eng": "bread",
+    "my": "ပေါင်မုန့်"
+  },
+  {
+    "id": "foodsAndDrinks-12",
+    "kanji + kana": "ご飯",
+    "kana": "ごはん",
+    "romaji": "gohan",
+    "eng": "cooked rice",
+    "my": "ထမင်း"
+  },
+  {
+    "id": "foodsAndDrinks-13",
+    "kanji + kana": "卵",
+    "kana": "たまご",
+    "romaji": "tamago",
+    "eng": "egg",
+    "my": "ကြက်ဥ"
+  },
+  {
+    "id": "foodsAndDrinks-14",
+    "kanji + kana": "バター",
+    "kana": "",
+    "romaji": "bata-",
+    "eng": "butter",
+    "my": "ထောပတ်"
+  },
+  {
+    "id": "foodsAndDrinks-15",
+    "kanji + kana": "塩",
+    "kana": "しお",
+    "romaji": "shio",
+    "eng": "salt",
+    "my": "ဆား"
+  },
+  {
+    "id": "foodsAndDrinks-16",
+    "kanji + kana": "砂糖",
+    "kana": "さとう",
+    "romaji": "satou",
+    "eng": "sugar",
+    "my": "သကြား"
+  },
+  {
+    "id": "foodsAndDrinks-17",
+    "kanji + kana": "お菓子",
+    "kana": "おかし",
+    "romaji": "okashi",
+    "eng": "sweets",
+    "my": "ချိုချဉ်"
+  },
+  {
+    "id": "foodsAndDrinks-18",
+    "kanji + kana": "飲む",
+    "kana": "のむ",
+    "romaji": "nomu",
+    "eng": "drink",
+    "my": "သောက်သည်"
+  },
+  {
+    "id": "foodsAndDrinks-19",
+    "kanji + kana": "飲み物",
+    "kana": "のみもの",
+    "romaji": "nomimono",
+    "eng": "drinks, beverage",
+    "my": "အချိုရည်, ယမကာ"
+  },
+  {
+    "id": "foodsAndDrinks-20",
+    "kanji + kana": "水",
+    "kana": "みず",
+    "romaji": "mizu",
+    "eng": "water",
+    "my": "ရေ"
+  },
+  {
+    "id": "foodsAndDrinks-21",
+    "kanji + kana": "牛乳",
+    "kana": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "eng": "milk",
+    "my": "နို့"
+  },
+  {
+    "id": "foodsAndDrinks-22",
+    "kanji + kana": "ミルク",
+    "kana": "",
+    "romaji": "miruku",
+    "eng": "milk",
+    "my": "နို့"
+  },
+  {
+    "id": "foodsAndDrinks-23",
+    "kanji + kana": "お酒",
+    "kana": "おさけ",
+    "romaji": "osake",
+    "eng": "liquor, alcohol",
+    "my": "အရက်"
+  },
+  {
+    "id": "foodsAndDrinks-24",
+    "kanji + kana": "お茶",
+    "kana": "おちゃ",
+    "romaji": "ocha",
+    "eng": "tea",
+    "my": "လက်ဖက်ရည်"
+  },
+  {
+    "id": "foodsAndDrinks-25",
+    "kanji + kana": "お弁当",
+    "kana": "おべんとう",
+    "romaji": "obentou",
+    "eng": "box lunch",
+    "my": "နေ့လယ်စာထမင်းဗူး"
+  },
+  {
+    "id": "foodsAndDrinks-26",
+    "kanji + kana": "ラーメン",
+    "kana": "",
+    "romaji": "ramen",
+    "eng": "ramen noodle",
+    "my": "ခေါက်ဆွဲ"
+  },
+  {
+    "id": "foodsAndDrinks-27",
+    "kanji + kana": "ケーキ",
+    "kana": "",
+    "romaji": "ke-ki",
+    "eng": "cake",
+    "my": "ကိတ်မုန့်"
+  },
+  {
+    "id": "foodsAndDrinks-28",
+    "kanji + kana": "アイスクリーム",
+    "kana": "",
+    "romaji": "aisukuri-mu",
+    "eng": "ice cream",
+    "my": "ရေခဲမုန့်"
+  }
+]

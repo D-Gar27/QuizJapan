@@ -1,0 +1,178 @@
+[
+  {
+    "id": "clothes-1",
+    "kanji + kana": "服",
+    "kana": "ふく",
+    "romaji": "fuku",
+    "eng": "clothes",
+    "my": "အဝတ်အစား"
+  },
+  {
+    "id": "clothes-2",
+    "kanji + kana": "洋服",
+    "kana": "ようふく",
+    "romaji": "youfuku",
+    "eng": "western-style clothes",
+    "my": "အနောက်တိုင်းအဝတ်အစား"
+  },
+  {
+    "id": "clothes-3",
+    "kanji + kana": "和服",
+    "kana": "わふく",
+    "romaji": "wafuku",
+    "eng": "japanese clothes",
+    "my": "ဂျပန်အဝတ်အစား"
+  },
+  {
+    "id": "clothes-4",
+    "kanji + kana": "ズボン",
+    "kana": "",
+    "romaji": "zubon",
+    "eng": "trousers",
+    "my": "ဘောင်းဘီရှည်"
+  },
+  {
+    "id": "clothes-5",
+    "kanji + kana": "スカート",
+    "kana": "",
+    "romaji": "sukato",
+    "eng": "skirt",
+    "my": "စကတ်"
+  },
+  {
+    "id": "clothes-6",
+    "kanji + kana": "眼鏡",
+    "kana": "めがね",
+    "romaji": "megane",
+    "eng": "glasses",
+    "my": "မျက်မှန်"
+  },
+  {
+    "id": "clothes-7",
+    "kanji + kana": "シャツ",
+    "kana": "",
+    "romaji": "shatsu",
+    "eng": "shirt",
+    "my": "အင်္ကျီ"
+  },
+  {
+    "id": "clothes-8",
+    "kanji + kana": "ワイシャツ",
+    "kana": "",
+    "romaji": "waishatsu",
+    "eng": "white shirt",
+    "my": "အင်္ကျီအဖြူ"
+  },
+  {
+    "id": "clothes-9",
+    "kanji + kana": "ポケット",
+    "kana": "",
+    "romaji": "poketto",
+    "eng": "pocket",
+    "my": "အိတ်ကပ်"
+  },
+  {
+    "id": "clothes-10",
+    "kanji + kana": "帽子",
+    "kana": "ぼうし",
+    "romaji": "boushi",
+    "eng": "hat",
+    "my": "ဦးထုပ်"
+  },
+  {
+    "id": "clothes-11",
+    "kanji + kana": "ハンカチ",
+    "kana": "",
+    "romaji": "hankachi",
+    "eng": "handkerchief",
+    "my": "လက်ကိုင်ပုဝါ"
+  },
+  {
+    "id": "clothes-12",
+    "kanji + kana": "ネクタイ",
+    "kana": "",
+    "romaji": "nekutai",
+    "eng": "necktie",
+    "my": "necktie"
+  },
+  {
+    "id": "clothes-13",
+    "kanji + kana": "セーター",
+    "kana": "",
+    "romaji": "se-ta-",
+    "eng": "sweater",
+    "my": "ဆွယ်တာ"
+  },
+  {
+    "id": "clothes-14",
+    "kanji + kana": "スリッパ",
+    "kana": "",
+    "romaji": "suritpa",
+    "eng": "slippers",
+    "my": "slipper ဖိနပ်"
+  },
+  {
+    "id": "clothes-15",
+    "kanji + kana": "コート",
+    "kana": "",
+    "romaji": "ko-to",
+    "eng": "coat (western style)",
+    "my": "ကုတ်အင်္ကျီ"
+  },
+  {
+    "id": "clothes-16",
+    "kanji + kana": "靴",
+    "kana": "くつ",
+    "romaji": "kutsu",
+    "eng": "shoes",
+    "my": "ဖိနပ်"
+  },
+  {
+    "id": "clothes-17",
+    "kanji + kana": "靴下",
+    "kana": "くつした",
+    "romaji": "kutsushita",
+    "eng": "socks",
+    "my": "ခြေအိတ်"
+  },
+  {
+    "id": "clothes-18",
+    "kanji + kana": "着る",
+    "kana": "きる",
+    "romaji": "kiru",
+    "eng": "wear, put on (over shoulders)",
+    "my": "ပခုံးထက်မှဝတ်ဆင်"
+  },
+  {
+    "id": "clothes-19",
+    "kanji + kana": "履く",
+    "kana": "はく",
+    "romaji": "haku",
+    "eng": "put on shoes",
+    "my": "သမီး"
+  },
+  {
+    "id": "clothes-20",
+    "kanji + kana": "着ける",
+    "kana": "かける",
+    "romaji": "kakeru",
+    "eng": "put on (one's face)",
+    "my": "လိမ်းသည်"
+  },
+  {
+    "id": "clothes-21",
+    "kanji + kana": "脱ぐ",
+    "kana": "ぬぐ",
+    "romaji": "nugu",
+    "eng": "take off",
+    "my": "အဝတ်ချွတ်သည်"
+  },
+  {
+    "id": "clothes-22",
+    "kanji + kana": "下着",
+    "kana": "したぎ",
+    "romaji": "shitagi",
+    "eng": "underwear",
+    "my": "အတွင်းခံ"
+  }
+]

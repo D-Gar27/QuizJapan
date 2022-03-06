@@ -1,0 +1,122 @@
+[
+  {
+    "id": "work-1",
+    "kanji + kana": "会社",
+    "kana": "かいしゃ",
+    "romaji": "kaisha",
+    "eng": "company",
+    "my": "ကုမ္ပဏီ"
+  },
+  {
+    "id": "work-2",
+    "kanji + kana": "働く",
+    "kana": "はたらく",
+    "romaji": "hataraku",
+    "eng": "work (verb)",
+    "my": "အလုပ်လုပ်သည်"
+  },
+  {
+    "id": "work-3",
+    "kanji + kana": "休み",
+    "kana": "やすみ",
+    "romaji": "yasumi",
+    "eng": "holiday, day off",
+    "my": "အားလပ်ရက်"
+  },
+  {
+    "id": "work-4",
+    "kanji + kana": "昼休み",
+    "kana": "ひるやすみ",
+    "romaji": "hiruyasumi",
+    "eng": "lunch break",
+    "my": "နေ့လယ်စာနားချိန်"
+  },
+  {
+    "id": "work-5",
+    "kanji + kana": "暇な",
+    "kana": "ひまな",
+    "romaji": "himana",
+    "eng": "free, not busy",
+    "my": "အားလပ်ချိန်"
+  },
+  {
+    "id": "work-6",
+    "kanji + kana": "忙しい",
+    "kana": "いそがしい",
+    "romaji": "isogashii",
+    "eng": "busy",
+    "my": "အလုပ်ရှုပ်သည်"
+  },
+  {
+    "id": "work-7",
+    "kanji + kana": "事務所",
+    "kana": "じむしょ",
+    "romaji": "jimusho",
+    "eng": "office",
+    "my": "ရုံး"
+  },
+  {
+    "id": "work-8",
+    "kanji + kana": "会議",
+    "kana": "かいぎ",
+    "romaji": "kaigi",
+    "eng": "meeting",
+    "my": "အစည်းအဝေး"
+  },
+  {
+    "id": "work-9",
+    "kanji + kana": "会議室",
+    "kana": "かいぎしつ",
+    "romaji": "kaigishitsu",
+    "eng": "meeting room",
+    "my": "အစည်းအဝေး"
+  },
+  {
+    "id": "work-10",
+    "kanji + kana": "仕事",
+    "kana": "しごと",
+    "romaji": "shigoto",
+    "eng": "work (noun)",
+    "my": "အလုပ်"
+  },
+  {
+    "id": "work-11",
+    "kanji + kana": "会社員",
+    "kana": "かいしゃいん",
+    "romaji": "kaishain",
+    "eng": "employee",
+    "my": "ဝန်ထမ်း"
+  },
+  {
+    "id": "work-12",
+    "kanji + kana": "銀行員",
+    "kana": "ぎんこういん",
+    "romaji": "ginkouin",
+    "eng": "bank employee",
+    "my": "ဘဏ်ဝန်ထမ်း"
+  },
+  {
+    "id": "work-13",
+    "kanji + kana": "医者",
+    "kana": "いしゃ",
+    "romaji": "isha",
+    "eng": "ဆရာဝန်",
+    "my": "ဥပမာ"
+  },
+  {
+    "id": "work-14",
+    "kanji + kana": "警察",
+    "kana": "けいさつ",
+    "romaji": "keisatsu",
+    "eng": "police",
+    "my": "ရဲ"
+  },
+  {
+    "id": "work-15",
+    "kanji + kana": "駅員",
+    "kana": "えきいん",
+    "romaji": "ekiin",
+    "eng": "station staff",
+    "my": "ဘူတာရုံဝန်ထမ်း"
+  }
+]

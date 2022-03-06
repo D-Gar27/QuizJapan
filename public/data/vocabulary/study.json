@@ -1,0 +1,114 @@
+[
+  {
+    "id": "study-1",
+    "kanji + kana": "読む",
+    "kana": "よむ",
+    "romaji": "yomu",
+    "eng": "read",
+    "my": "ဖတ်သည်"
+  },
+  {
+    "id": "study-2",
+    "kanji + kana": "書く",
+    "kana": "かく",
+    "romaji": "kaku",
+    "eng": "write",
+    "my": "ရေးသည်"
+  },
+  {
+    "id": "study-3",
+    "kanji + kana": "聞く",
+    "kana": "きく",
+    "romaji": "kiku",
+    "eng": "listen",
+    "my": "နားထောင်သည်"
+  },
+  {
+    "id": "study-4",
+    "kanji + kana": "調べる",
+    "kana": "しらべる",
+    "romaji": "shiraberu",
+    "eng": "lookup, investigate",
+    "my": "ရှာဖွေသည်"
+  },
+  {
+    "id": "study-5",
+    "kanji + kana": "本",
+    "kana": "ほん",
+    "romaji": "hon",
+    "eng": "book",
+    "my": "စာအုပ်"
+  },
+  {
+    "id": "study-6",
+    "kanji + kana": "辞書",
+    "kana": "じしょ",
+    "romaji": "jisho",
+    "eng": "dictionary",
+    "my": "အဘိဓာန်"
+  },
+  {
+    "id": "study-7",
+    "kanji + kana": "意味",
+    "kana": "いみ",
+    "romaji": "imi",
+    "eng": "meaning",
+    "my": "အဓိပ္ပါယ်"
+  },
+  {
+    "id": "study-8",
+    "kanji + kana": "宿題",
+    "kana": "しゅくだい",
+    "romaji": "shukudai",
+    "eng": "homework",
+    "my": "အိမ်စာ"
+  },
+  {
+    "id": "study-9",
+    "kanji + kana": "練習",
+    "kana": "れんしゅう",
+    "romaji": "renshu",
+    "eng": "pratise",
+    "my": "လေ့ကျင့်သည်"
+  },
+  {
+    "id": "study-10",
+    "kanji + kana": "覚える",
+    "kana": "おぼえる",
+    "romaji": "oboeru",
+    "eng": "memorize",
+    "my": "အလွတ်ကျက်သည်"
+  },
+  {
+    "id": "study-11",
+    "kanji + kana": "忘れる",
+    "kana": "わすれる",
+    "romaji": "wasueru",
+    "eng": "forget",
+    "my": "မေ့သည်"
+  },
+  {
+    "id": "study-12",
+    "kanji + kana": "問題",
+    "kana": "もんだい",
+    "romaji": "mondai",
+    "eng": "problem",
+    "my": "ပြဿနာ"
+  },
+  {
+    "id": "study-13",
+    "kanji + kana": "例",
+    "kana": "れい",
+    "romaji": "rei",
+    "eng": "example",
+    "my": "ဥပမာ"
+  },
+  {
+    "id": "study-14",
+    "kanji + kana": "答え",
+    "kana": "ことえ",
+    "romaji": "kotoe",
+    "eng": "answer",
+    "my": "အဖြေ"
+  }
+]

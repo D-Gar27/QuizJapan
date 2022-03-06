@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kanji-1-1",
+    "kanji": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひとつ",
+    "eng": "one",
+    "my": "တစ်"
+  },
+  {
+    "id": "kanji-1-2",
+    "kanji": "二",
+    "onyomi": "ニ",
+    "kunyomi": "ふたつ",
+    "eng": "two",
+    "my": "နှစ်"
+  },
+  {
+    "id": "kanji-1-3",
+    "kanji": "三",
+    "onyomi": "サン",
+    "kunyomi": "みつ",
+    "eng": "three",
+    "my": "သုံး"
+  },
+  {
+    "id": "kanji-1-4",
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よつ, よん",
+    "eng": "four",
+    "my": "လေး"
+  },
+  {
+    "id": "kanji-1-5",
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつつ",
+    "eng": "five",
+    "my": "ငါး"
+  },
+  {
+    "id": "kanji-1-6",
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "むっつ, むい",
+    "eng": "six",
+    "my": "ခြောက်"
+  },
+  {
+    "id": "kanji-1-7",
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "ななつ, なの",
+    "eng": "seven",
+    "my": "ခုနှစ်"
+  },
+  {
+    "id": "kanji-1-8",
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "やっつ, よう",
+    "eng": "eight",
+    "my": "ရှစ်"
+  },
+  {
+    "id": "kanji-1-9",
+    "kanji": "九",
+    "onyomi": "キュウ、 ク",
+    "kunyomi": "ここのつ",
+    "eng": "nine",
+    "my": "ကိုး"
+  },
+  {
+    "id": "kanji-1-10",
+    "kanji": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とう",
+    "eng": "ten",
+    "my": "တစ်ဆယ်"
+  }
+]

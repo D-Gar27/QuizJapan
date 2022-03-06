@@ -1,0 +1,114 @@
+[
+  {
+    "id": "person-1",
+    "kanji + kana": "友達",
+    "kana": "ともだち",
+    "romaji": "tomodachi",
+    "eng": "friend",
+    "my": "သူငယ်ချင်း"
+  },
+  {
+    "id": "person-2",
+    "kanji + kana": "どんな",
+    "kana": "",
+    "romaji": "donna",
+    "eng": "what kind of?",
+    "my": "ဘယ်လိုမျိုး"
+  },
+  {
+    "id": "person-3",
+    "kanji + kana": "人",
+    "kana": "ひと",
+    "romaji": "hito",
+    "eng": "person",
+    "my": "လူ"
+  },
+  {
+    "id": "person-4",
+    "kanji + kana": "親切",
+    "kana": "しんせつ",
+    "romaji": "shinsetsu",
+    "eng": "kind",
+    "my": "ကြင်နာတတ်သော"
+  },
+  {
+    "id": "person-5",
+    "kanji + kana": "元気な",
+    "kana": "げんきな",
+    "romaji": "genkina",
+    "eng": "energetic, healthy",
+    "my": "တက်ကြွသော"
+  },
+  {
+    "id": "person-6",
+    "kanji + kana": "綺麗な",
+    "kana": "きれいな",
+    "romaji": "kireina",
+    "eng": "beautiful",
+    "my": "လှသော"
+  },
+  {
+    "id": "person-7",
+    "kanji + kana": "ハンサム",
+    "kana": "",
+    "romaji": "hansamu",
+    "eng": "handsome",
+    "my": "ချောသော"
+  },
+  {
+    "id": "person-8",
+    "kanji + kana": "かわいい",
+    "kana": "",
+    "romaji": "kawaii",
+    "eng": "cute",
+    "my": "ချစ်စရာကောင်းသော"
+  },
+  {
+    "id": "person-9",
+    "kanji + kana": "優しい",
+    "kana": "やさしい",
+    "romaji": "yasashii",
+    "eng": "kind",
+    "my": "ကြင်နာတတ်သော"
+  },
+  {
+    "id": "person-10",
+    "kanji + kana": "高い",
+    "kana": "しごと",
+    "romaji": "takai",
+    "eng": "tall, expensive",
+    "my": "အရပ်ရှည်သော, ဈေးကြီးသော"
+  },
+  {
+    "id": "person-11",
+    "kanji + kana": "低い",
+    "kana": "ひくい",
+    "romaji": "hikui",
+    "eng": "short in height",
+    "my": "တိုသော"
+  },
+  {
+    "id": "person-12",
+    "kanji + kana": "大きい",
+    "kana": "おおきい",
+    "romaji": "ookii",
+    "eng": "big",
+    "my": "ကြီးသော"
+  },
+  {
+    "id": "person-13",
+    "kanji + kana": "小さい",
+    "kana": "ちいさい",
+    "romaji": "chiisai",
+    "eng": "small",
+    "my": "သေးငယ်သော"
+  },
+  {
+    "id": "person-14",
+    "kanji + kana": "かっこいい",
+    "kana": "",
+    "romaji": "katkoii",
+    "eng": "cool",
+    "my": "မိုက်သော"
+  }
+]

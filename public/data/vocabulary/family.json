@@ -1,0 +1,162 @@
+[
+  {
+    "id": "family-1",
+    "kanji + kana": "家族",
+    "kana": "かぞく",
+    "romaji": "kazouku",
+    "eng": "family",
+    "my": "မိသားစု"
+  },
+  {
+    "id": "family-2",
+    "kanji + kana": "父",
+    "kana": "ちち",
+    "romaji": "chichi",
+    "eng": "father (your family)",
+    "my": "အဖေ"
+  },
+  {
+    "id": "family-3",
+    "kanji + kana": "お父さん",
+    "kana": "おとうさん",
+    "romaji": "otousan",
+    "eng": "father (another's family)",
+    "my": "အဖေ"
+  },
+  {
+    "id": "family-4",
+    "kanji + kana": "母",
+    "kana": "はは",
+    "romaji": "haha",
+    "eng": "mother (your family)",
+    "my": "အမေ"
+  },
+  {
+    "id": "family-5",
+    "kanji + kana": "お母さん",
+    "kana": "おかあさん",
+    "romaji": "okaasan",
+    "eng": "mother (another's family)",
+    "my": "အမေ"
+  },
+  {
+    "id": "family-6",
+    "kanji + kana": "兄",
+    "kana": "あに",
+    "romaji": "ani",
+    "eng": "brother (your family)",
+    "my": "အစ်ကို"
+  },
+  {
+    "id": "family-7",
+    "kanji + kana": "お兄さん",
+    "kana": "おにいさん",
+    "romaji": "oniisan",
+    "eng": "older brother (another's family)",
+    "my": "အစ်ကို"
+  },
+  {
+    "id": "family-8",
+    "kanji + kana": "姉",
+    "kana": "あね",
+    "romaji": "ane",
+    "eng": "older sister (your family)",
+    "my": "အစ်မ"
+  },
+  {
+    "id": "family-9",
+    "kanji + kana": "お姉さん",
+    "kana": "おねえさん",
+    "romaji": "oneesan",
+    "eng": "sister (another's family)",
+    "my": "အစ်မ"
+  },
+  {
+    "id": "family-10",
+    "kanji + kana": "弟",
+    "kana": "おとうと",
+    "romaji": "otouto",
+    "eng": "younger brother",
+    "my": "ညီငယ်"
+  },
+  {
+    "id": "family-11",
+    "kanji + kana": "妹",
+    "kana": "いもうと",
+    "romaji": "imouto",
+    "eng": "younger sister",
+    "my": "ညီမလေး"
+  },
+  {
+    "id": "family-12",
+    "kanji + kana": "おじいさん",
+    "kana": "",
+    "romaji": "ojiisan",
+    "eng": "grandfather",
+    "my": "အဖိုး"
+  },
+  {
+    "id": "family-13",
+    "kanji + kana": "おばあさん",
+    "kana": "",
+    "romaji": "obaasan",
+    "eng": "sister (your family)",
+    "my": "အဖွား"
+  },
+  {
+    "id": "family-14",
+    "kanji + kana": "おじさん",
+    "kana": "",
+    "romaji": "ojisan",
+    "eng": "uncle",
+    "my": "ဦးလေး"
+  },
+  {
+    "id": "family-15",
+    "kanji + kana": "おばさん",
+    "kana": "",
+    "romaji": "obasan",
+    "eng": "aunt",
+    "my": "အဒေါ်"
+  },
+  {
+    "id": "family-16",
+    "kanji + kana": "息子",
+    "kana": "むすこ",
+    "romaji": "musuko",
+    "eng": "son",
+    "my": "သား"
+  },
+  {
+    "id": "family-17",
+    "kanji + kana": "娘",
+    "kana": "むすめ",
+    "romaji": "mesume",
+    "eng": "daughter",
+    "my": "သမီး"
+  },
+  {
+    "id": "family-18",
+    "kanji + kana": "両親",
+    "kana": "りょうしん",
+    "romaji": "ryoushin",
+    "eng": "parent",
+    "my": "မိဘ"
+  },
+  {
+    "id": "family-19",
+    "kanji + kana": "兄弟",
+    "kana": "きょうだい",
+    "romaji": "kyoudai",
+    "eng": "sibling",
+    "my": "မွေးချင်း"
+  },
+  {
+    "id": "family-20",
+    "kanji + kana": "いとこ",
+    "kana": "",
+    "romaji": "itoko",
+    "eng": "cousin",
+    "my": "ဝမ်းကွဲ"
+  }
+]

@@ -1,0 +1,78 @@
+@import './variables.scss';
+
+.topPage {
+  width: 100vw;
+  min-height: 100vh;
+  @include flex(center, center, $gap: 3rem);
+  flex-wrap: wrap;
+  padding: 2rem 1rem;
+}
+.level {
+  width: 9rem;
+  aspect-ratio: 4 / 4;
+  background-color: $purple;
+  border-radius: $radius-sm;
+  box-shadow: $shadow;
+  cursor: pointer;
+  font-weight: bold;
+  color: white;
+  position: relative;
+  @include flex(center, center);
+  flex-wrap: wrap;
+  flex-wrap: wrap;
+  @include speed(transform);
+  overflow: hidden;
+  &:hover {
+    transform: scale(1.05);
+  }
+  p {
+    font-size: 1.3rem;
+  }
+  .num {
+    position: absolute;
+    bottom: -0.4rem;
+    left: 0.1rem;
+    font-size: 4rem;
+  }
+}
+
+.cateList {
+  position: relative;
+  width: 100%;
+  max-width: 40rem;
+  list-style: none;
+  height: 4rem;
+  background-color: $purple;
+  border-radius: $radius-xs;
+  @include flex(space-between, center);
+  box-shadow: $shadow;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: white;
+  padding-right: 1rem;
+  padding-left: 3.25rem;
+  @include speed(transform);
+  &:hover {
+    transform: scale(1.025);
+  }
+  span {
+    padding-bottom: 0.1rem;
+    @include flex(center, center);
+    background-color: $yellow;
+    position: absolute;
+    left: 0.75rem;
+    width: 2rem;
+    aspect-ratio: 1 / 1;
+    border-radius: 100vw;
+  }
+}
+
+@include wide-mobile {
+  .topPage {
+    @include flex(center, center, $dir: true, $gap: 5rem);
+  }
+  .level {
+    @include flex(center, center, $dir: true);
+  }
+}

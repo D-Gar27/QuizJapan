@@ -1,0 +1,98 @@
+[
+  {
+    "id": "school-1",
+    "kanji + kana": "先生",
+    "kana": "せんせい",
+    "romaji": "sensei",
+    "eng": "teacher",
+    "my": "ဆရာ/ဆရာမ"
+  },
+  {
+    "id": "school-2",
+    "kanji + kana": "学生",
+    "kana": "がくせい",
+    "romaji": "gakusei",
+    "eng": "student",
+    "my": "ကျောင်းသား"
+  },
+  {
+    "id": "school-3",
+    "kanji + kana": "留学生",
+    "kana": "りゅうがくせい",
+    "romaji": "ryugakusei",
+    "eng": "foreign student, exchange student",
+    "my": "နိုင်ငံရပ်ခြားကျောင်းသား"
+  },
+  {
+    "id": "school-4",
+    "kanji + kana": "学校",
+    "kana": "がっこう",
+    "romaji": "gakkou",
+    "eng": "school",
+    "my": "ကျောင်း"
+  },
+  {
+    "id": "school-5",
+    "kanji + kana": "勉強",
+    "kana": "べんきょう",
+    "romaji": "benkyou",
+    "eng": "study",
+    "my": "လေ့လာ"
+  },
+  {
+    "id": "school-6",
+    "kanji + kana": "日本の学校",
+    "kana": "にほんのがっこう",
+    "romaji": "nihonnogakkou",
+    "eng": "japanese school",
+    "my": "ဂျပန်ကျောင်း"
+  },
+  {
+    "id": "school-7",
+    "kanji + kana": "小学校",
+    "kana": "しょうがっこう",
+    "romaji": "shougakkou",
+    "eng": "elementary school",
+    "my": "မူလတန်းကျောင်း"
+  },
+  {
+    "id": "school-8",
+    "kanji + kana": "中学校",
+    "kana": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "eng": "junior high school",
+    "my": "အလယ်တန်းကျောင်း"
+  },
+  {
+    "id": "school-9",
+    "kanji + kana": "高校",
+    "kana": "こうこう",
+    "romaji": "koukou",
+    "eng": "high school",
+    "my": "အထက်တန်းကျောင်း"
+  },
+  {
+    "id": "school-10",
+    "kanji + kana": "大学",
+    "kana": "だいがっこう",
+    "romaji": "daigakkou",
+    "eng": "university",
+    "my": "တက္ကသိုလ်"
+  },
+  {
+    "id": "school-11",
+    "kanji + kana": "教室",
+    "kana": "きょしつ",
+    "romaji": "kyoshitsu",
+    "eng": "classroom",
+    "my": "စာသင်ခန်း"
+  },
+  {
+    "id": "school-12",
+    "kanji + kana": "クラス",
+    "kana": "",
+    "romaji": "kurasu",
+    "eng": "class",
+    "my": "အတန်း"
+  }
+]

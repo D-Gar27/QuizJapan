@@ -1,0 +1,108 @@
+@import './variables';
+
+.vocab {
+  width: 100vw;
+  min-height: 100vh;
+  position: relative;
+  background-color: $purple;
+  @include flex(center, center, $dir: true, $gap: 2rem);
+  padding-bottom: 2rem;
+  .container {
+    @include flex(center, center, $dir: true, $gap: 2rem);
+    color: white;
+    height: max-content;
+    width: 100%;
+    max-width: 80rem;
+    padding: 2rem 1rem;
+    margin-left: 0;
+    .vocabContainer {
+      margin-top: 1rem;
+      font-weight: 500;
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      justify-items: center;
+      align-items: center;
+      text-align: center;
+    }
+    .kanjiContainer {
+      margin-top: 1rem;
+      font-weight: 500;
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      justify-items: center;
+      align-items: center;
+      text-align: center;
+    }
+    .heading {
+      font-size: 1.1rem;
+      font-weight: bolder;
+      color: $yellow;
+    }
+  }
+  .btns {
+    width: 100%;
+    max-width: 80rem;
+    @include flex(space-between, center);
+    button {
+      box-shadow: $shadow;
+      width: 10rem;
+      aspect-ratio: 3 / 1;
+      border-radius: $radius-sm;
+      border: none;
+      color: white;
+      background-color: $blue;
+      font-size: clamp(1.025rem, 3vw + 1rem, 1.1rem);
+      font-weight: bold;
+      cursor: pointer;
+      @include speed(transform);
+      &:hover {
+        transform: scale(1.025);
+      }
+    }
+  }
+}
+
+@include small-tablet {
+  .vocab {
+    .container {
+      padding: 2rem 0.25rem;
+      border-radius: 0rem;
+      .vocabContainer {
+        grid-template-columns: repeat(4, 1fr);
+        .eng {
+          display: none;
+        }
+      }
+      .heading {
+        font-size: 1rem;
+      }
+    }
+    .btns {
+      padding-inline: 0.5rem;
+      button {
+        transform: scale(0.9);
+      }
+    }
+  }
+}
+@include wide-mobile {
+  .vocab {
+    .container {
+      .vocabContainer {
+        grid-template-columns: repeat(3, 1fr);
+        .romaji {
+          display: none;
+        }
+      }
+      .kanjiContainer {
+        margin-left: -0.5rem;
+        grid-template-columns: repeat(4, 1fr);
+        .eng {
+          display: none;
+        }
+      }
+    }
+  }
+}

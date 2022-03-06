@@ -1,0 +1,82 @@
+[
+  {
+    "id": "position-1",
+    "kanji + kana": "上",
+    "kana": "うえ",
+    "romaji": "ue",
+    "eng": "above, on",
+    "my": "အပေါ်မှာ"
+  },
+  {
+    "id": "position-2",
+    "kanji + kana": "下",
+    "kana": "した",
+    "romaji": "shita",
+    "eng": "below, under",
+    "my": "အောက်မှာ"
+  },
+  {
+    "id": "position-3",
+    "kanji + kana": "左",
+    "kana": "ひだり",
+    "romaji": "hidari",
+    "eng": "left",
+    "my": "ဘယ်ဘက်"
+  },
+  {
+    "id": "position-4",
+    "kanji + kana": "右",
+    "kana": "みぎ",
+    "romaji": "migi",
+    "eng": "right",
+    "my": "ညာဘက်"
+  },
+  {
+    "id": "position-5",
+    "kanji + kana": "中",
+    "kana": "なか",
+    "romaji": "naka",
+    "eng": "inside",
+    "my": "အတွင်း, အထဲမှာ"
+  },
+  {
+    "id": "position-6",
+    "kanji + kana": "外",
+    "kana": "そと",
+    "romaji": "soto",
+    "eng": "outside",
+    "my": "အပြင်မှာ"
+  },
+  {
+    "id": "position-7",
+    "kanji + kana": "前",
+    "kana": "まえ",
+    "romaji": "mae",
+    "eng": "in front of",
+    "my": "အရှေ့မှာ"
+  },
+  {
+    "id": "position-8",
+    "kanji + kana": "後ろ",
+    "kana": "うしろ",
+    "romaji": "ushiro",
+    "eng": "behind",
+    "my": "အနောက်မှာ"
+  },
+  {
+    "id": "position-9",
+    "kanji + kana": "隣",
+    "kana": "となり",
+    "romaji": "tonari",
+    "eng": "beside, next to",
+    "my": "ဘေးနားမှာ"
+  },
+  {
+    "id": "position-10",
+    "kanji + kana": "近く",
+    "kana": "ちかく",
+    "romaji": "chikaku",
+    "eng": "nearby",
+    "my": "အနီးနားမှာ"
+  }
+]

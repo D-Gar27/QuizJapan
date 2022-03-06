@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kanji-2-1",
+    "kanji": "百",
+    "onyomi": "ヒャク、 ビャク",
+    "kunyomi": "もも",
+    "eng": "hundred",
+    "my": "တစ်ရာ"
+  },
+  {
+    "id": "kanji-2-2",
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "eng": "thousand",
+    "my": "တစ်ထောင်"
+  },
+  {
+    "id": "kanji-2-3",
+    "kanji": "万",
+    "onyomi": "マン、 バン",
+    "kunyomi": "",
+    "eng": "ten thousand",
+    "my": "တစ်သောင်း"
+  },
+  {
+    "id": "kanji-2-4",
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "eng": "yen, round, circle",
+    "my": "ယန်း, စက်ဝိုင်း"
+  },
+  {
+    "id": "kanji-2-5",
+    "kanji": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "eng": "day, sun",
+    "my": "နေ့, နေ"
+  },
+  {
+    "id": "kanji-2-6",
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "eng": "country",
+    "my": "နိုင်ငံ"
+  },
+  {
+    "id": "kanji-2-7",
+    "kanji": "人",
+    "onyomi": "ジン、 ニン",
+    "kunyomi": "ひと",
+    "eng": "person",
+    "my": "လူ"
+  },
+  {
+    "id": "kanji-2-8",
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "eng": "year",
+    "my": "နှစ်"
+  },
+  {
+    "id": "kanji-2-9",
+    "kanji": "大",
+    "onyomi": "ダイ、 タイ",
+    "kunyomi": "おおきい",
+    "eng": "big",
+    "my": "ကြီးသော"
+  },
+  {
+    "id": "kanji-2-10",
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "eng": "book",
+    "my": "စာအုပ်"
+  }
+]

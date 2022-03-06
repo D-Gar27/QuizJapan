@@ -1,0 +1,74 @@
+[
+  {
+    "id": "greeting-1",
+    "kanji + kana": "おはようございます",
+    "kana": "",
+    "romaji": "ohayougozaimasu",
+    "eng": "good morning",
+    "my": "မင်္ဂလာနံနက်ခင်းပါ"
+  },
+  {
+    "id": "greeting-2",
+    "kanji + kana": "こんにちは",
+    "kana": "",
+    "romaji": "konnichiwa",
+    "eng": "hello",
+    "my": "မင်္ဂလာပါ"
+  },
+  {
+    "id": "greeting-3",
+    "kanji + kana": "こんばんは",
+    "kana": "",
+    "romaji": "konbanwa",
+    "eng": "good evening",
+    "my": "မင်္ဂလာညနေခင်းပါ"
+  },
+  {
+    "id": "greeting-4",
+    "kanji + kana": "さようなら",
+    "kana": "",
+    "romaji": "sayounara",
+    "eng": "good bye",
+    "my": "သွားတော့မယ်"
+  },
+  {
+    "id": "greeting-5",
+    "kanji + kana": "またね",
+    "kana": "",
+    "romaji": "matane",
+    "eng": "see you",
+    "my": "နောက်မှတွေ့မယ်"
+  },
+  {
+    "id": "greeting-6",
+    "kanji + kana": "おやすみ",
+    "kana": "",
+    "romaji": "oyasumi",
+    "eng": "good night",
+    "my": "ကောင်းသောညပါ"
+  },
+  {
+    "id": "greeting-7",
+    "kanji + kana": "どういたしまして",
+    "kana": "",
+    "romaji": "douitashimashite",
+    "eng": "you're welcome",
+    "my": "ရပါတယ်"
+  },
+  {
+    "id": "greeting-8",
+    "kanji + kana": "ありがとうございます",
+    "kana": "",
+    "romaji": "arigatougozaimasu",
+    "eng": "thank you",
+    "my": "ကျေးဇူးတင်ပါတယ်"
+  },
+  {
+    "id": "greeting-9",
+    "kanji + kana": "初めまして",
+    "kana": "はじめまして",
+    "romaji": "hajimemashite",
+    "eng": "nice to meet you",
+    "my": "တွေ့ရတာဝမ်းသာပါတယ်"
+  }
+]

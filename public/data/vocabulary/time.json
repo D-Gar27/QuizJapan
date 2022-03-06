@@ -1,0 +1,74 @@
+[
+  {
+    "id": "time-1",
+    "kanji + kana": "時",
+    "kana": "じ",
+    "romaji": "ji",
+    "eng": "hour",
+    "my": "နာရီ"
+  },
+  {
+    "id": "time-2",
+    "kanji + kana": "分",
+    "kana": "ふん, ぶん",
+    "romaji": "fun, bun",
+    "eng": "minute",
+    "my": "မိနစ်"
+  },
+  {
+    "id": "time-3",
+    "kanji + kana": "秒",
+    "kana": "びょう",
+    "romaji": "byou",
+    "eng": "seconds",
+    "my": "စက္ကန့်"
+  },
+  {
+    "id": "time-4",
+    "kanji + kana": "午前",
+    "kana": "ごぜん",
+    "romaji": "gozen",
+    "eng": "a.m",
+    "my": "နံနက်"
+  },
+  {
+    "id": "time-5",
+    "kanji + kana": "午後",
+    "kana": "ごご",
+    "romaji": "gogo",
+    "eng": "p.m",
+    "my": "ညနေ"
+  },
+  {
+    "id": "time-6",
+    "kanji + kana": "今",
+    "kana": "いま",
+    "romaji": "ima",
+    "eng": "now",
+    "my": "ယခု"
+  },
+  {
+    "id": "time-7",
+    "kanji + kana": "ぐらい",
+    "kana": "",
+    "romaji": "gurai",
+    "eng": "about",
+    "my": "ခန့်"
+  },
+  {
+    "id": "time-8",
+    "kanji + kana": "から",
+    "kana": "",
+    "romaji": "kara",
+    "eng": "from",
+    "my": "ထံမှ"
+  },
+  {
+    "id": "time-9",
+    "kanji + kana": "まで",
+    "kana": "",
+    "romaji": "made",
+    "eng": "to",
+    "my": "သို့"
+  }
+]

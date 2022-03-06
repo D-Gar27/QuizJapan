@@ -1,0 +1,114 @@
+[
+  {
+    "id": "days-1",
+    "kanji + kana": "月曜日",
+    "kana": "げつようび",
+    "romaji": "getsuyoubi",
+    "eng": "monday",
+    "my": "တနင်္လာ"
+  },
+  {
+    "id": "days-2",
+    "kanji + kana": "火曜日",
+    "kana": "かようび",
+    "romaji": "kayoubi",
+    "eng": "tuesday",
+    "my": "အင်္ဂါ"
+  },
+  {
+    "id": "days-3",
+    "kanji + kana": "水曜日",
+    "kana": "すいようび",
+    "romaji": "suiyoubi",
+    "eng": "wednesday",
+    "my": "ဗုဒ္ဓဟူး"
+  },
+  {
+    "id": "days-4",
+    "kanji + kana": "木曜日",
+    "kana": "もくようび",
+    "romaji": "mokuyoubi",
+    "eng": "thursday",
+    "my": "ကြာသပတေး"
+  },
+  {
+    "id": "days-5",
+    "kanji + kana": "金曜日",
+    "kana": "きんようび",
+    "romaji": "kinyoubi",
+    "eng": "friday",
+    "my": "သောကြာ"
+  },
+  {
+    "id": "days-6",
+    "kanji + kana": "土曜日",
+    "kana": "どようび",
+    "romaji": "doyoubi",
+    "eng": "saturday",
+    "my": "စနေနေ့"
+  },
+  {
+    "id": "days-7",
+    "kanji + kana": "日曜日",
+    "kana": "にちようび",
+    "romaji": "nichiyoubi",
+    "eng": "sunday",
+    "my": "တနင်္ဂနွေ"
+  },
+  {
+    "id": "days-8",
+    "kanji + kana": "今日",
+    "kana": "きょう",
+    "romaji": "kyou",
+    "eng": "today",
+    "my": "ဒီနေ့"
+  },
+  {
+    "id": "days-9",
+    "kanji + kana": "明日",
+    "kana": "あした",
+    "romaji": "ahita",
+    "eng": "tomorrow",
+    "my": "မနက်ဖြန်"
+  },
+  {
+    "id": "days-10",
+    "kanji + kana": "昨日",
+    "kana": "きのう",
+    "romaji": "kinou",
+    "eng": "yesterday",
+    "my": "မနေ့က"
+  },
+  {
+    "id": "days-11",
+    "kanji + kana": "毎日",
+    "kana": "まいにち",
+    "romaji": "mainichi",
+    "eng": "every day",
+    "my": "နေ့တိုင်း"
+  },
+  {
+    "id": "days-12",
+    "kanji + kana": "週",
+    "kana": "しゅう",
+    "romaji": "shuu",
+    "eng": "week",
+    "my": "တစ်ပတ်"
+  },
+  {
+    "id": "days-13",
+    "kanji + kana": "月",
+    "kana": "がつ",
+    "romaji": "gatsu",
+    "eng": "month",
+    "my": "လ"
+  },
+  {
+    "id": "days-14",
+    "kanji + kana": "年",
+    "kana": "ねん",
+    "romaji": "nen",
+    "eng": "year",
+    "my": "နှစ်"
+  }
+]

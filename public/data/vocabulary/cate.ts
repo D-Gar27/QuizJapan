@@ -1,0 +1,15 @@
+export const Category = [
+  'Greeting',
+  'School',
+  'Family',
+  'Days',
+  'Study',
+  'Work',
+  'Person',
+  'Time',
+  'Position',
+  'Colours',
+  'In a day',
+  'Clothes',
+  'Foods and drinks',
+];

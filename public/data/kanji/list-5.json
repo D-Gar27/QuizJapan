@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kanji-5-1",
+    "kanji": "外",
+    "onyomi": "ガイ",
+    "kunyomi": "そと",
+    "eng": "outside",
+    "my": "အပြင်မှာ"
+  },
+  {
+    "id": "kanji-5-2",
+    "kanji": "下",
+    "onyomi": "カ",
+    "kunyomi": "した",
+    "eng": "below, under",
+    "my": "အောက်မှာ"
+  },
+  {
+    "id": "kanji-5-3",
+    "kanji": "来",
+    "onyomi": "ライ",
+    "kunyomi": "くる",
+    "eng": "come",
+    "my": "လာသည်"
+  },
+  {
+    "id": "kanji-5-4",
+    "kanji": "気",
+    "onyomi": "キ、ケ",
+    "kunyomi": "いき",
+    "eng": "feeling, mood, atomosphere",
+    "my": "ခံစားချက်"
+  },
+  {
+    "id": "kanji-5-5",
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちいさい",
+    "eng": "little, small",
+    "my": "သေးငယ်သော"
+  },
+  {
+    "id": "kanji-5-6",
+    "kanji": "山",
+    "onyomi": "サン、 セン",
+    "kunyomi": "やま",
+    "eng": "mountain",
+    "my": "တောင်"
+  },
+  {
+    "id": "kanji-5-7",
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はなす",
+    "eng": "speak, talk",
+    "my": "စကားပြောသည်"
+  },
+  {
+    "id": "kanji-5-8",
+    "kanji": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな",
+    "eng": "woman, female",
+    "my": "မိန်းမ, အမျိုးသမီး"
+  },
+  {
+    "id": "kanji-5-9",
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "eng": "north",
+    "my": "မြောက်ဘက်"
+  },
+  {
+    "id": "kanji-5-10",
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "eng": "noon, sign of the horse",
+    "my": "နေ့လည်, မြင်း၏ပုံသဏ္ဍာန်"
+  }
+]

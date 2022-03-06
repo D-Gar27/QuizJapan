@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kanji-6-1",
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "かく",
+    "eng": "write",
+    "my": "ရေးသည်"
+  },
+  {
+    "id": "kanji-6-2",
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき、まず",
+    "eng": "before, previous",
+    "my": "ယခင်, မတိုင်ခင်"
+  },
+  {
+    "id": "kanji-6-3",
+    "kanji": "名",
+    "onyomi": "メイ、ミョウ",
+    "kunyomi": "な",
+    "eng": "name",
+    "my": "နာမည်"
+  },
+  {
+    "id": "kanji-6-4",
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "eng": "river, stream",
+    "my": "မြစ်, စမ်းချောင်း"
+  },
+  {
+    "id": "kanji-6-5",
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "eng": "water",
+    "my": "ရေ"
+  },
+  {
+    "id": "kanji-6-6",
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか",
+    "eng": "half, middle",
+    "my": "တစ်ဝက်"
+  },
+  {
+    "id": "kanji-6-7",
+    "kanji": "男",
+    "onyomi": "ダン、ナン",
+    "kunyomi": "おとこ",
+    "eng": "male, man",
+    "my": "အထီး, ယောကျ်ား"
+  },
+  {
+    "id": "kanji-6-8",
+    "kanji": "西",
+    "onyomi": "セイ、サイ",
+    "kunyomi": "にし",
+    "eng": "west",
+    "my": "အနောက်"
+  },
+  {
+    "id": "kanji-6-9",
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "eng": "electricity, eletric",
+    "my": "လျှပ်စစ်"
+  },
+  {
+    "id": "kanji-6-10",
+    "kanji": "校",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "eng": "school",
+    "my": "ကျောင်း"
+  }
+]

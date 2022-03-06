@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kanji-7-1",
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かたる",
+    "eng": "language",
+    "my": "ဘာသာစကား"
+  },
+  {
+    "id": "kanji-7-2",
+    "kanji": "土",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "eng": "soil, earth, ground",
+    "my": "မြေဆီလွှာ, မြေပြင်"
+  },
+  {
+    "id": "kanji-7-3",
+    "kanji": "木",
+    "onyomi": "ボク、モク",
+    "kunyomi": "き",
+    "eng": "tree, wood",
+    "my": "သစ်ပင်, သစ်သား"
+  },
+  {
+    "id": "kanji-7-4",
+    "kanji": "聞",
+    "onyomi": "ブン、モン",
+    "kunyomi": "きく",
+    "eng": "hear, listen",
+    "my": "နားထောင်သည်, ကြားသည်"
+  },
+  {
+    "id": "kanji-7-5",
+    "kanji": "食",
+    "onyomi": "ショク、ジキ",
+    "kunyomi": "たべる",
+    "eng": "eat",
+    "my": "စားသည်"
+  },
+  {
+    "id": "kanji-7-6",
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "eng": "car",
+    "my": "ကား"
+  },
+  {
+    "id": "kanji-7-7",
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに、なん",
+    "eng": "what",
+    "my": "ဘာလဲ"
+  },
+  {
+    "id": "kanji-7-8",
+    "kanji": "南",
+    "onyomi": "ナン、ナ",
+    "kunyomi": "みなみ",
+    "eng": "south",
+    "my": "တောင်ဘက်"
+  },
+  {
+    "id": "kanji-7-9",
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごとに",
+    "eng": "every",
+    "my": "~တိုင်း > နေ့တိုင်း,မနက်တိုင်း"
+  },
+  {
+    "id": "kanji-7-10",
+    "kanji": "白",
+    "onyomi": "ハク",
+    "kunyomi": "しろい",
+    "eng": "white",
+    "my": "အဖြူရောင်"
+  }
+]

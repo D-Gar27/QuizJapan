@@ -1,0 +1,53 @@
+$white: #f1faee;
+$red: #ff3464;
+$yellow: #ffb703;
+$purple: #8338ec;
+$black: #0e0e0e;
+$blue: #48cae4;
+$green: #78cf21;
+
+$shadow: -2px 10px 10px -5px rgba(0, 0, 0, 0.46);
+$radius-sm: 1rem;
+$radius-xs: 0.5rem;
+
+$tablet: 1024px;
+$small-tablet: 740px;
+$wide-mobile: 540px;
+$small-mobile: 340px;
+
+@mixin speed($prop) {
+  transition: 200ms ease-out $prop;
+}
+
+@mixin flex($x, $y, $dir: false, $gap: 0) {
+  display: flex;
+  justify-content: $x;
+  align-items: $y;
+  gap: $gap;
+  @if ($dir) {
+    flex-direction: column;
+  } @else {
+    flex-direction: row;
+  }
+}
+
+@mixin tablet {
+  @media only screen and (max-width: $tablet) {
+    @content;
+  }
+}
+@mixin small-tablet {
+  @media only screen and (max-width: $tablet) {
+    @content;
+  }
+}
+@mixin wide-mobile {
+  @media only screen and (max-width: $wide-mobile) {
+    @content;
+  }
+}
+@mixin small-mobile {
+  @media only screen and (max-width: $small-mobile) {
+    @content;
+  }
+}

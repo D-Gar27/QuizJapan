@@ -4,6 +4,7 @@ import axios from 'axios';
 import style from '../../styles/Category.module.scss';
 import Flashcard from '../../components/FlashcardKanji';
 import Quiz from '../../components/QuizKanji';
+import Head from 'next/head';
 
 const Category = () => {
   const [kanji, setKanji] = useState<
@@ -32,38 +33,45 @@ const Category = () => {
   }, [query.kanji]);
 
   return (
-    <main className={style.vocab}>
-      {current === 'learn' && (
-        <>
-          <section className={style.container}>
-            <div className={`${style.kanjiContainer} ${style.heading}`}>
-              <p>Kanji</p>
-              <p>Onyomi</p>
-              <p>Kunyomi</p>
-              <p className={style.eng}>English</p>
-              <p>Myanmar</p>
-            </div>
-            {kanji?.map((k) => (
-              <div key={k.id} className={style.kanjiContainer}>
-                <p>{k.kanji}</p>
-                <p>{k.onyomi ? k.onyomi : '-'}</p>
-                <p>{k.kunyomi ? k.kunyomi : '-'}</p>
-                <p className={style.eng}>{k.eng}</p>
-                <p>{k.my}</p>
+    <>
+      <Head>
+        <title>{query?.kanji} | Quiz Japan</title>
+      </Head>
+      <main className={style.vocab}>
+        {current === 'learn' && (
+          <>
+            <section className={style.container}>
+              <div className={`${style.kanjiContainer} ${style.heading}`}>
+                <p>Kanji</p>
+                <p>Onyomi</p>
+                <p>Kunyomi</p>
+                <p className={style.eng}>English</p>
+                <p>Myanmar</p>
               </div>
-            ))}
-          </section>
-          <div className={style.btns}>
-            <button onClick={() => setCurrent('flashCard')}>Flash card</button>
-            <button onClick={() => setCurrent('quiz')}>Quiz</button>
-          </div>
-        </>
-      )}
-      {current === 'flashCard' && (
-        <Flashcard kanji={kanji} setCurrent={setCurrent} />
-      )}
-      {current === 'quiz' && <Quiz kanji={kanji} setCurrent={setCurrent} />}
-    </main>
+              {kanji?.map((k) => (
+                <div key={k.id} className={style.kanjiContainer}>
+                  <p>{k.kanji}</p>
+                  <p>{k.onyomi ? k.onyomi : '-'}</p>
+                  <p>{k.kunyomi ? k.kunyomi : '-'}</p>
+                  <p className={style.eng}>{k.eng}</p>
+                  <p>{k.my}</p>
+                </div>
+              ))}
+            </section>
+            <div className={style.btns}>
+              <button onClick={() => setCurrent('flashCard')}>
+                Flash card
+              </button>
+              <button onClick={() => setCurrent('quiz')}>Quiz</button>
+            </div>
+          </>
+        )}
+        {current === 'flashCard' && (
+          <Flashcard kanji={kanji} setCurrent={setCurrent} />
+        )}
+        {current === 'quiz' && <Quiz kanji={kanji} setCurrent={setCurrent} />}
+      </main>
+    </>
   );
 };
 
